@@ -4,3 +4,4 @@ numpy
 matplotlib
 millify
 prettify
+plotly
